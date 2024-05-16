@@ -1,1 +1,1 @@
-# Our.Umbraco.ConfigSearch
+ConfigSearch
